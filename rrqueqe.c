@@ -18,7 +18,7 @@ int main()
  
    printf("Enter the number of process");
    scanf("%d",&m);
-   printf("Enter time quantums");
+   printf("Enter time quantum");
    scanf("%d",&tq);
    printf("\nEnter burst time : time priorities : Arrival time  \n");
  
